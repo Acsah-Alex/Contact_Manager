@@ -6,7 +6,7 @@ An application to maintain users contact details with JWT API Authentication usi
 
 ### clone it
 
-git clone git@github.com:developit/express-es6-rest-api.git
+git clone https://github.com/Acsah-Alex/Contact_Manager.git
 
 ### Install dependencies
 
